@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science in Bahria University.<br>I can build Software Applications using React and NextJS<br>I'm currently trying to build different industry level software applications.<br>My objective is to find web development clients.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com . always up for a chat related to tech collaborations!
+I'm currently studying Computer Science in Bahria University.<br>I can build Software Applications using React and NextJS<br>I'm currently trying to build different industry level software applications.<br>My objective is to find web development clients.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com, I'm always up for a chat related to tech collaborations!
 
 
 ## 🌐 Socials:
