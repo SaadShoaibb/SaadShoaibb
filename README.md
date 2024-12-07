@@ -12,7 +12,6 @@ I'm currently studying Computer Science in Bahria University.<br>I can build Sof
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaadShoaibb&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadShoaibb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
