@@ -16,6 +16,5 @@ I'm currently studying Computer Science in Bahria University.<br>I can build Sof
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SaadShoaibb&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
