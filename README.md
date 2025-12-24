@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science in Bahria University.<br>I can build Software Applications using modern tech stacks like MERN, NextJS, PostgreSQL etc.<br>I'm currently trying to build different industry level software applications.<br>My objective is to find Software development clients.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com, I'm always up for a chat related to tech collaborations!
+I can build Software Applications using modern tech stacks like MERN, NextJS, PostgreSQL etc.<br>I'm currently trying to build different industry level software applications.<br>My objective is to help create Highly beneficial and quality scalable applications for my clients!.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com, I'm always up for a chat related to tech collaborations!
 
 
 ## 🌐 Socials:
