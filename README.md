@@ -1,5 +1,5 @@
 # 💫 About Me:
-I can build Web and Mobile Applications using modern tech stacks like MERN, NextJS, PostgreSQL, ReactNative, Expo etc.<br>I'm currently working on different industry level software applications.<br>My objective is to help create Highly beneficial and quality scalable applications for my clients!.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com, I'm always up for a chat related to tech collaborations!
+I can build Web and Mobile Applications using modern tech stacks like NextJS, NestJS, PostgreSQL, ReactNative, Expo etc.<br>I'm currently working on different industry level software applications.<br>My objective is to help create Highly beneficial and quality scalable applications for my clients!.<br>Reach out to me on LinkedIn or email me at: binshoaibsaad@gmail.com, I'm always up for a chat related to tech collaborations, and if your business needs to get automated or sales and earnings boosted. Let's grow together in this modern AI Era!
 
 
 ## 🌐 Socials:
